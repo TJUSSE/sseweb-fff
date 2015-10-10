@@ -1,0 +1,5 @@
+name = SSE Funny File Formatter
+description = Format files to adapt the sidebar style.
+version = 7.x-0.1
+core = 7.x
+package = SSE
